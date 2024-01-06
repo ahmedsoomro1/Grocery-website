@@ -1,6 +1,6 @@
 # Grocery Website
 #Description
-The Grocery App is a simple web application designed to streamline the grocery shopping experience. It provides users with a convenient platform to create, manage, and organize their grocery lists, making the shopping process more efficient and enjoyable.
+The Grocery Website is a simple web application designed to streamline the grocery shopping experience. It provides users with a convenient platform to create, manage, and organize their grocery lists, making the shopping process more efficient and enjoyable.
 
 #Features
 User-friendly Interface: Clean and intuitive design for a seamless user experience.
