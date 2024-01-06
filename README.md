@@ -9,8 +9,10 @@ Add and Remove Items: Quickly add or remove items from your lists with just a fe
 Categories and Sorting: Organize your items by categories and sort them for a more structured shopping experience.
 Responsive Design: The app is responsive, ensuring a consistent experience across various devices.
 # Screenshots
-![Screenshot 1](![Capture](https://github.com/ahmedsoomro1/Grocery-website/assets/155841671/9b7ce812-203f-4db4-91bc-c44c37b83c84)
+
+![Screenshot 1](![Screenshot 2024-01-07 002133](https://github.com/ahmedsoomro1/Grocery-website/assets/155841671/9d702be2-caf2-43f1-b2fe-14407079d2da)
 )
+
 ![Screenshot 2](![Screenshot 2024-01-07 000924](https://github.com/ahmedsoomro1/Grocery-website/assets/155841671/ad55d0c8-72f0-49fd-ad52-8b6389876739)
 )
 
